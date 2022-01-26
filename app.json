@@ -1,0 +1,23 @@
+{
+  "name": "ChristmasRiddle",
+  "displayName": "ChristmasRiddle",
+  "icon": "./assets/icon.png",
+
+  "expo": {
+    "name": "RiddleCodeCheck",
+    "version": "1.0.0",
+    "slug": "RiddleCodeCheck",
+    "icon": "./assets/icon.png",
+    "ios": {
+      "bundleIdentifier": "com.RiddleCodeCheck.RiddleCodeCheck",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.sini.RiddleCodecheck"
+    }
+  }
+}
